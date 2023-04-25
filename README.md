@@ -9,7 +9,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 - <b>Virtual Private Networks (VPN)</b>
-  
   - [Creating VPNs to remotely connect to IP networks]
 <h2>🤳Connect with me:</h2>
 
