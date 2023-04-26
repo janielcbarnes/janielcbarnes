@@ -1,5 +1,6 @@
-<h1>Hi, I'm Janiel, an /www.linkedin.com/in/
-janiel-barnes-77a94212a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Janiel, an 
+">IT Professional</a>☺</h1>www.linkedin.com/in/
+janiel-barnes-77a94212a
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
